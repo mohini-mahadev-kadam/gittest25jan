@@ -1,0 +1,12 @@
+git clone git@github.com:WisdmLabs/Engineering-Best-Practices.git
+cd Engineering-Best-Practices/
+vim README.md
+git status
+git branch practice
+git checkout practice
+M	README.md
+git add .
+vim README.md
+git commit -m comminting readme.md changes
+[practice 2477972] comminting readme.md changes
+ 1 file changed, 1 insertion(+), 1 deletion(-)
